@@ -1,5 +1,0 @@
-#About the Event:
-
-
-
-
