@@ -1,15 +1,15 @@
 ## Registration for December 8th Workshop
 
-First Name:
+**First Name**:
 
-Last Name:
+**Last Name**:
 
-Email:
+**Email**:
 
-Phone:
+**Phone**:
 
-Organization Affiliation:
+**Organization Affiliation**:
 
-Position in Organization:
+**Position in Organization**:
 
-Pronouns you prefer to use:
+**Pronouns you prefer to use**:
