@@ -3,4 +3,4 @@ In the true spirit of open source, volunteers are essential. IEEE SA OPEN both r
 
 # Register for the Workshop
 Submit your restistration as an issue using the Issue template Form:
-[Register Here](https://tinyurl.com/y5e2nkxo)
+[Register Here](https://tinyurl.com/yxkpk698)
