@@ -6,8 +6,6 @@
 
 **Email**:
 
-**Phone**:
-
 **Organization Affiliation**:
 
 **Position in Organization**:
