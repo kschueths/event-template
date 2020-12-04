@@ -3,4 +3,4 @@ In the true spirit of open source, volunteers are essential. IEEE SA OPEN both r
 
 # Register for the Workshop
 Submit your registration as an issue using the Issue Template Form:
-[Register Here](https://tinyurl.com/y3x5ghye)
+[Register Here](/opensource.ieee.org/workshops/advisory-groups/register-for-the-workshop/-/issues/new)
