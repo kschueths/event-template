@@ -3,4 +3,4 @@ In the true spirit of open source, volunteers are essential. IEEE SA OPEN both r
 
 # Register for the Workshop
 Submit your registration as an issue using the Issue Template Form:
-[Register Here](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/issues/new)
+[Register Here](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/issues/new?issuable_template=workshop-registration)
