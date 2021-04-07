@@ -1,4 +1,4 @@
-## Registration for December 8th Workshop
+## Registration for May 4th Workshop
 
 **First Name**:
 
