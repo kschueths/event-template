@@ -11,7 +11,7 @@ Visit the website for additional information and the breakout room links that wi
 ## Before the Event: Participant Prep Materials
 Read the wiki about how to test BigBlueButton and make sure you equipment and computer are working correctly before the event here
 
-[Participant Prep](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-information/-/blob/main/Checking_bbb.md)
+[Participant Prep](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/blob/main/Event%20Information/Checking_bbb.md)
 
 [Talking points for inviting friends and colleagues](https://opensource.ieee.org/workshops/advisory-groups/event-information/-/blob/main/talking_points_open.md)
 
