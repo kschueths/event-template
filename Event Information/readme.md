@@ -13,7 +13,7 @@ Read about how to test BigBlueButton and make sure you equipment and computer ar
 
 Test your equipment on BigBlueButton [HERE](https://test.bigbluebutton.org/) 
 
-If you would like information for inviting friends and colleagues, check out these [TALKING POINTS](https://opensource.ieee.org/workshops/advisory-groups/event-information/-/blob/main/talking_points_open.md)
+If you would like information for inviting friends and colleagues, check out these [TALKING POINTS](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/blob/main/Event%20Information/talking-points-event.md)
 
 ## Technical Assistance
 If you need technical assistance prior to or during the event, send us a message on our [Event Assistance Mattermost Channel](https://mattermost.leadingbit.com:3443/signup_user_complete/?id=9n6o9sxb43dbjrb9obofszyima).<br>
