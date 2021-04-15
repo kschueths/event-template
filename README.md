@@ -1,8 +1,8 @@
 # MAGic in the Making: Creating Open Source Marketing Resources
 
-## Register for the Workshop
-Submit your registration as an issue using the Issue Template Form:
-[**Register Here**](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/issues/new?issuable_template=workshop-registration)
+## [Register for the Workshop](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/issues/new?issuable_template=workshop-registration)
+Submit your registration as an issue using the Issue Template Form at the link above
+
 
 ## About the Event
 
@@ -14,6 +14,6 @@ The Open Source Marketing Advisory groups on the IEEE SA OPEN platform are creat
 
 ## [Event Information](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-information/-/blob/main/README.md)
 
-For more information about the event, schedules, and paticipant materials visit the Information Page
+For more information about the event, schedules, and paticipant materials visit the Information Page at the link above
 
 
