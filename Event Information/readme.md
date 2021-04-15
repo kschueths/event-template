@@ -9,7 +9,7 @@ Visit the website for additional information and the breakout room links that wi
 [Event Website
 
 ## Before the Event: Participant Prep Materials
-Read about how to test BigBlueButton and make sure you equipment and computer are working correctly before the event: [BigBlueButton Prep](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/blob/main/Event%20Information/Checking_bbb.md)
+Learn how to test BigBlueButton and make sure you equipment and computer are working correctly before the event: [BigBlueButton Prep](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/blob/main/Event%20Information/Checking_bbb.md)
 
 Test your equipment on BigBlueButton [HERE](https://test.bigbluebutton.org/) 
 
