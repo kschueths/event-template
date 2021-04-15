@@ -12,7 +12,7 @@ If you don't have an account check out the [Getting Started](https://saopen.ieee
 
 
 
-## [Event Details & Information Here](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-information/-/blob/main/README.md)
+## [Event Details & Information Here](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/blob/main/Event%20Information/readme.md)
 
 For more information about the event, schedules, and paticipant materials visit the Information Page at the link above
 
