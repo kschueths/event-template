@@ -20,7 +20,7 @@ If you need technical assistance prior to or during the event, send us a message
 
 
 ## Event Schedule
-You can find the event schedule [HERE](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-information/-/blob/main/event_schedule_20210504.md)
+You can find the event schedule [HERE](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/blob/main/Event%20Information/20210504-event-schedule.md)
 
 
 
