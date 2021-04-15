@@ -2,7 +2,7 @@
 
 ## Register for the Workshop
 Submit your registration as an issue using the Issue Template Form:
-[Register Here](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/issues/new?issuable_template=workshop-registration)
+[**Register Here**](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/issues/new?issuable_template=workshop-registration)
 
 ## About the Event
 
@@ -12,8 +12,8 @@ The Open Source Marketing Advisory groups on the IEEE SA OPEN platform are creat
 
 [Create your account](https://saopen.ieee.org/getting-started/#sso) 
 
-## More Information
+## [Event Information](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-information/-/blob/main/README.md)
 
-For more information about the event, schedules, and paticipant materials visit the [Information Page](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-information/-/blob/main/README.md)
+For more information about the event, schedules, and paticipant materials visit the Information Page
 
 
