@@ -7,7 +7,7 @@ The Open Source Marketing Advisory groups on the IEEE SA OPEN platform are creat
 ## [Register for the Workshop Here](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/issues/new?issuable_template=workshop-registration)
 Submit your registration as an issue using the Issue Template Form at the link above
 
-Make sure you have created an IEEE SA OPEN account to submit your registration. Create an account [HERE](https://www.ieee.org/profile/public/createwebaccount/showCreateAccount.html?url=https%3A%2F%2Fwww.ieee.org%2F%2F) <br>
+Make sure you have created an IEEE account to submit your registration. Create a free account [HERE](https://www.ieee.org/profile/public/createwebaccount/showCreateAccount.html?url=https%3A%2F%2Fwww.ieee.org%2F%2F) <br>
 If you don't have an account check out the [Getting Started](https://saopen.ieee.org/getting-started/#sso) page for help setting one up.
 
 
