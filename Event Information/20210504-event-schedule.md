@@ -11,7 +11,7 @@
 
 **10:20** Speaker Introduction			
 
-**10:25** Speaker 1 - Nicole Huesman	
+**10:25** Speaker 1 - Nicole Huesman <br>	
 "Strategic, Authentic Engagement in the Service of Business Objectives" 
 
 **10:40** Live Q&A Session with Nicole
