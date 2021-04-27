@@ -27,10 +27,11 @@
 
 **11:40** **Workshop Breakout 1** 
 
-**Breakout Room 1**:<br> 
-**Breakout Room 2**:<br>
-**Breakout Room 3**:<br>
+**Breakout Room 1**: Open Source Intelligence (OSINT) in the World of Marketing <br> 
+Defining how OSINT can promote the future of marketing in open source.
 
+**Breakout Room 2**: Marketing Metrics and Badging Initiatives <br>
+Defining how badging initiatives can help promote marketing goals.
 
 **12:25** Check-in and Debrief	
 
@@ -40,10 +41,14 @@
 
 **1:05** **Workshop Breakout 2** 
 
-**Breakout Room 1**:<br> 
-**Breakout Room 2**:<br>
-**Breakout Room 3**:<br>
+**Breakout Room 1**: Open Source Intelligence (OSINT) in the World of Marketing <br> 
+OSINT applications in open source marketing.
 
+**Breakout Room 2**: Marketing Metrics and Badging Initiatives <br>
+Defining the measure of success in the marketing open source community.
+
+**Breakout Room 3**: Open Source Features and Tools for Marketing <br>
+Defining features and tools the marketing proffesionals need in open source.
 
 **1:50** Return and debrief		
 
