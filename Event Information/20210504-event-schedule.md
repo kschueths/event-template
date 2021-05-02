@@ -31,7 +31,7 @@
 
 **Breakout Room 1**: Open Source Intelligence (OSINT) in the World of Marketing <br> 
 Defining how OSINT can promote the future of marketing in open source.<br>	
-[Breakout link:](https://bbb.virtualroadshow.io/b/kat-5ex-1eu-am1 ) 
+[Breakout room link:](https://bbb.virtualroadshow.io/b/kat-5ex-1eu-am1 ) 
 
 **Breakout Room 2**: Marketing Metrics and Badging Initiatives <br>
 Defining how badging initiatives can help promote marketing goals.<br>	
