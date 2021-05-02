@@ -31,11 +31,11 @@
 
 **Breakout Room 1**: Open Source Intelligence (OSINT) in the World of Marketing <br> 
 Defining how OSINT can promote the future of marketing in open source.<br>	
-[Breakout room link:](https://bbb.virtualroadshow.io/b/kat-5ex-1eu-am1 ) 
+[Breakout Room 1](https://bbb.virtualroadshow.io/b/kat-5ex-1eu-am1 ) 
 
 **Breakout Room 2**: Marketing Metrics and Badging Initiatives <br>
 Defining how badging initiatives can help promote marketing goals.<br>	
-[Breakout room link:](https://bbb.virtualroadshow.io/b/kat-9dx-n6m-cwa ) 
+[Breakout Room 2](https://bbb.virtualroadshow.io/b/kat-9dx-n6m-cwa ) 
 
 **12:25** Check-in and Debrief	
 
@@ -47,15 +47,15 @@ Defining how badging initiatives can help promote marketing goals.<br>
 
 **Breakout Room 1**: Open Source Intelligence (OSINT) in the World of Marketing <br> 
 OSINT applications in open source marketing.<br>	
-[Breakout room link:](https://bbb.virtualroadshow.io/b/kat-ukz-vzg-cvj )
+[Breakout Room 1](https://bbb.virtualroadshow.io/b/kat-ukz-vzg-cvj )
 
 **Breakout Room 2**: Marketing Metrics and Badging Initiatives <br>
 Defining the measure of success in the marketing open source community.<br>	
-[Breakout room link:](https://bbb.virtualroadshow.io/b/kat-ep4-07g-ocz ) 
+[Breakout Room 2](https://bbb.virtualroadshow.io/b/kat-ep4-07g-ocz ) 
 
 **Breakout Room 3**: Open Source Features and Tools for Marketing <br>
 Defining features and tools the marketing proffesionals need in open source.<br>	
-[Breakout room link:](https://bbb.virtualroadshow.io/b/kat-hhe-cvz-ff8)
+[Breakout Room 3](https://bbb.virtualroadshow.io/b/kat-hhe-cvz-ff8)
  
 **1:50** Return and debrief		
 
