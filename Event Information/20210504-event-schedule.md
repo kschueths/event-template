@@ -3,6 +3,7 @@
 **10:00 AM - 2:30 PM Eastern Time (16:00-20:30 UTC)**
 
 **Video conference room link:**<br>
+[https://bbb.virtualroadshow.io/b/kat-ku9-5tc-8de](https://bbb.virtualroadshow.io/b/kat-ku9-5tc-8de ) 
 
 
 **10:00** Introductions/ice breaker					
@@ -30,9 +31,11 @@
 
 **Breakout Room 1**: Open Source Intelligence (OSINT) in the World of Marketing <br> 
 Defining how OSINT can promote the future of marketing in open source.
+[Breakout link:](https://bbb.virtualroadshow.io/b/kat-5ex-1eu-am1 ) 
 
 **Breakout Room 2**: Marketing Metrics and Badging Initiatives <br>
 Defining how badging initiatives can help promote marketing goals.
+[Breakout room link:](https://bbb.virtualroadshow.io/b/kat-9dx-n6m-cwa ) 
 
 **12:25** Check-in and Debrief	
 
@@ -44,13 +47,16 @@ Defining how badging initiatives can help promote marketing goals.
 
 **Breakout Room 1**: Open Source Intelligence (OSINT) in the World of Marketing <br> 
 OSINT applications in open source marketing.
+[Breakout room link:](https://bbb.virtualroadshow.io/b/kat-ukz-vzg-cvj )
 
 **Breakout Room 2**: Marketing Metrics and Badging Initiatives <br>
 Defining the measure of success in the marketing open source community.
+[Breakout room link:](https://bbb.virtualroadshow.io/b/kat-ep4-07g-ocz ) 
 
 **Breakout Room 3**: Open Source Features and Tools for Marketing <br>
 Defining features and tools the marketing proffesionals need in open source.
-
+[Breakout room link:](https://bbb.virtualroadshow.io/b/kat-hhe-cvz-ff8)
+ 
 **1:50** Return and debrief		
 
 **2:20** Closing community activity	
