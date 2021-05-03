@@ -19,9 +19,9 @@
 
 **10:50** Speaker Introduction	
 
-**10:55** Speaker:  - Video	
-
-**11:10** Live Q&A Session 
+**10:55** Speaker:  Fireside chat with Thomas Scovell and Silona Bonewald <br>
+Thomas
+**11:10** Live Q&A Session with Thomas and Silona
 
 **11:20** TEN MINUTE BREAK	
 
