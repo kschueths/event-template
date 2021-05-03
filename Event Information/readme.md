@@ -2,11 +2,11 @@
 The Open Source Marketing Advisory groups on the IEEE SA OPEN platform are creating resources for humanitarian projects and groups. The purpose of this workshop is to strategize how to use marketing resources to foster and improve project maturity, increase marketing involvement across industries within the Open Source community, and create a solid foundation for involvement within the overall open source community as it regards to marketing. All marketing professionals from diverse backgrounds, diverse roles, and diverse organizational structures are encouraged to participate.
 
 ## Event Video Conference room
-You can join the conference [HERE]
+You can join the conference [HERE](https://bbb.virtualroadshow.io/b/kat-ku9-5tc-8de)
 
 ## Event Website
 Visit the website for additional information and the breakout room links that will be used during the event <br>
-[Event Website
+[Event Website](https://saopen.ieee.org/workshop/)
 
 ## Before the Event: Participant Prep Materials
 Learn how to test BigBlueButton and make sure you equipment and computer are working correctly before the event: [BigBlueButton Prep](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/blob/main/Event%20Information/Checking_bbb.md)
