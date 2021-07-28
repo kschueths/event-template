@@ -26,7 +26,7 @@ If you need technical assistance prior to or during the event, send us a message
 
 
 ## Event Schedule
-You can find the event schedule [HERE](https://opensource.ieee.org/workshops/workshop-in-a-box/-/blob/main/Event%20Information/event-schedule.md)
+You can find the event schedule [HERE] 
 
 Post a link to your event schedule here
 
