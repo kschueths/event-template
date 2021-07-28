@@ -1,4 +1,4 @@
-| Type | Event | Date | Completed | Resource |
+| Type | Task | Date | Completed | Resource |
 | --- | --- | --- | --- | --- |
 | Pre Event Planning |  |  |  |  |
 |  | Design Planning |  |  |  |
