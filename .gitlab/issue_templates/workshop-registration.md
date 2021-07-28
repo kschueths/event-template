@@ -1,6 +1,6 @@
-## Registration for May 4th Workshop
+## Registration for June 16th Workshop
 
-Please check the confidential issue checkbox when submitting this registration. This prevents other attendees from seeing your registration and personal information.
+Please leave the `/confidential` command when submitting this registration. This prevents other attendees from seeing your registration and personal information.
 
 **First Name**:
 
@@ -12,4 +12,7 @@ Please check the confidential issue checkbox when submitting this registration. 
 
 **Position in Organization**:
 
-**Pronouns you prefer to use**:
+**Prefered Pronouns**:
+
+
+/confidential 
