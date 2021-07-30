@@ -14,7 +14,7 @@ If you don't have an account check out the [Getting Started](https://saopen.ieee
 
 
 
-## [Event Details & Information Here] (make this titel a link to the event information README file)
+## [Event Details & Information Here] (make this title a link to the Event Information README file)
 
 For more information about the event, schedules, and paticipant materials visit the Information Page at the link above
 
