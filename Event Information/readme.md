@@ -19,7 +19,7 @@ Test your equipment on BigBlueButton [HERE](https://test.bigbluebutton.org/)
 
 Are you facilitating a room? Read the [BigBlueButton Facilitators Guide](https://saopen.ieee.org/facilitator-guide/)
 
-If you would like information for inviting friends and colleagues, check out these [TALKING POINTS](https://opensource.ieee.org/workshops/maymagworkshop/20210504-workshop-info/20210504-workshop-registration/-/blob/main/Event%20Information/talking-points-event.md)
+If you would like information for inviting friends and colleagues, check out these [TALKING POINTS] link here
 
 ## Technical Assistance
 If you need technical assistance prior to or during the event, send us a message on our [Event Assistance Mattermost Channel] link here.<br>
