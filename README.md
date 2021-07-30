@@ -4,7 +4,7 @@
 
 A couple sentences. This is the elevator pitch
 
-## [Register for the Workshop Here](https://opensource.ieee.org/workshops/workshop-in-a-box/-/issues/new?issuable_template=workshop-registration)
+## [Register for the Workshop Here] ( Make this title a link. follow instructions in the .gitlab folder to make this link)
 Submit your registration as an issue using the Issue Template Form at the link above
 
 Change the first part of the URL to match your project. Add this last piece to the end: /-/issues/new?issuable_template=workshop-registration)
@@ -14,7 +14,7 @@ If you don't have an account check out the [Getting Started](https://saopen.ieee
 
 
 
-## [Event Details & Information Here](https://opensource.ieee.org/workshops/workshop-in-a-box/-/blob/main/Event%20Information/readme.md)
+## [Event Details & Information Here] (make this titel a link to the event information README file)
 
 For more information about the event, schedules, and paticipant materials visit the Information Page at the link above
 
