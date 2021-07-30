@@ -1,6 +1,6 @@
 | Type | Task | Date | Completed | Resource |
 | --- | --- | --- | --- | --- |
-| Pre Event Planning |  |  |  |  |
+| **Pre Event Planning** |  |  |  |  |
 |  | Design Planning |  |  |  |
 | Admin | Create event name | 2 months |  |  |
 | Admin | create event description | 2 months |  |  |
@@ -49,7 +49,7 @@
 | Training | Room Facilitator Training | 1 week |  |  |
 | Admin | Check CLAs | 1 week |  |  |
 | Marketing | 2nd Post on social media to advertise event |  |  |  |
-| Week Pre Event |  |  |  |  |
+| **Week Pre Event** |  |  |  |  |
 | Admin | Send out participant prep kits | 3 days |  |  |
 | Training | Staff training - April 2nd | 3 days |  |  |
 | Training | Dress Rehearsal - April 5th | 1 day |  |  |
@@ -69,7 +69,8 @@
 | Tech | Assign rooms and room permissions to facilitators prior to the event | 3 days |  |  |
 | Tech | Mattermost reminders: Day Before | 1 day |  |  |
 | Tech | Put room links onto the website schedule | 1 day |  |  |
-| During Event |  |  |  |  |
+| **During Event** |  |  |  |  |
+|  | MC | Day of |  |  |
 |  | Open Main Hall 30 minutes prior to event | Day of |  |  |
 |  | Chat monitor to see who is listen only - send PMs to get them on audio - Main Hall | Day of |  |  |
 |  | Chat monitor to interact in chat - Main Hall | Day of |  |  |
@@ -81,7 +82,7 @@
 |  | Staff monitoring breakout rooms | Day of |  |  |
 | Tech | Tech Support Room | Day of |  |  |
 | Marketing | Social media updates during the event? | Day of |  |  |
-| Post Event |  |  |  |  |
+| **Post Event** |  |  |  |  |
 | Admin | Get rendered video recordings from BBB rooms | 1 day after |  |  |
 | Admin | Send raw video recordings to video editor | 1 day after |  |  |
 | Admin | Clean up breakout room notes | 1 day after |  |  |
