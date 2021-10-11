@@ -1,4 +1,8 @@
-# Issue templates for event registration
+# Step 1: Create a Registration Issue Board
+
+Go to the issue board and rename the board from "Development" to "Event Registration"
+
+# Step 2: Issue templates for event registration
 
 
 The file in the issue Template folder is the populated template for event registration. Do Not Change the File Names.
