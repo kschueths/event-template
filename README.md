@@ -1,3 +1,6 @@
+# How to use this project to create your event
+Make a clone of this project so that you have a new project. Once you have a new project, follow the instructions throughout this project's repository to create your event information and registration pages.
+
 # Event Name
 
 ## About the Event
