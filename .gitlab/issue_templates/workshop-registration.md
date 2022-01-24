@@ -1,4 +1,4 @@
-## Registration for June 16th Workshop
+## Registration for (Event name or date) Workshop
 
 Please leave the `/confidential` command when submitting this registration. This prevents other attendees from seeing your registration and personal information.
 
